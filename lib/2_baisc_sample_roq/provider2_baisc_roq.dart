@@ -3,7 +3,7 @@ import 'package:provider/provider.dart';
 
 class CounterProvider2 extends ChangeNotifier {
   int _counterValue=0;
-  int get CounterValue => _counterValue;
+  int get counterValue => _counterValue;
   // CounterProvider({
   //   this.counterValue = 0,
   // });
