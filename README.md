@@ -129,7 +129,7 @@ flutter run
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/flutter-provider-examples.git
+git clone https://github.com/Eng-Ruqaih-Salman2040/roqsal_state_management_provider_2026.git
 ```
 
 ### Step 2: Install Dependencies
